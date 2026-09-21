@@ -6,13 +6,13 @@
     "verifier": "Liam",
     "verification": "NO VIDEO",
     "percentToQualify": 50,
-    "password": "Not Copyable",
+    "password": "Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Liam",
+            "link": "No Video"
             "percent": 100,
-            "hz": 360
+            "hz": "N/A"
         }
     ]
 }
