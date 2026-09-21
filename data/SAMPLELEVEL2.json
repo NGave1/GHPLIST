@@ -8,5 +8,11 @@
     "percentToQualify": "6",
     "password": "Not Copyable",
     "records": [
+     {
+            "user": "Gave",
+            "link": "No Video"
+            "percent": 100,
+            "hz": "60-144"
+        }
     ]
 }
